@@ -2,7 +2,7 @@
 
 # anagram-1587115620
 
-![Platform](https://img.shields.io/badge/Platform-GeeksForGeeks-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white) ![Language](https://img.shields.io/badge/Language-C%2B%2B-58a6ff?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-EasyAccuracy-2ea043?style=flat-square) ![Status](https://img.shields.io/badge/Status-Accepted-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-GeeksForGeeks-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white) ![Language](https://img.shields.io/badge/Language-C%2B%2B-58a6ff?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-2ea043?style=flat-square) ![Status](https://img.shields.io/badge/Status-Accepted-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 | Attribute | Value |
 |-----------|-------|
-| Difficulty    | EasyAccuracy  |
+| Difficulty    | Easy  |
 | Accuracy      | 44.93%    |
 | Submissions   | 472K+ |
 | Points        | 2      |
@@ -22,7 +22,7 @@
 
 ## 📝 Problem Description
 
-Anagram Difficulty: EasyAccuracy: 44.93%Submissions: 472K+Points: 2Average Time: 20m Given two non-empty strings s1 and s2, consisting only of lowercase English letters, determine whether they are anagrams of each other or not. Two strings are considered anagrams if they contain the same characters with exactly the same frequencies, regardless of their order.
+Given two non-empty strings s1 and s2, consisting only of lowercase English letters, determine whether they are anagrams of each other or not. Two strings are considered anagrams if they contain the same characters with exactly the same frequencies, regardless of their order.
 
 ### 🔢 Examples
 
@@ -76,5 +76,5 @@ Anagram Difficulty: EasyAccuracy: 44.93%Submissions: 472K+Points: 2Average Time:
 ---
 
 <div align="center">
-<sub>Auto-pushed by <strong>GFGHub</strong> &nbsp;|&nbsp; Tue, 10 Mar 2026 06:22:37 GMT</sub>
+<sub>Auto-pushed by <strong>GFGHub</strong> &nbsp;|&nbsp; Tue, 10 Mar 2026 06:27:18 GMT</sub>
 </div>
