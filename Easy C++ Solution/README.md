@@ -76,5 +76,5 @@ Given the head of a linked list, determine whether the list contains a loop. If 
 ---
 
 <div align="center">
-<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Tue, 10 Mar 2026 09:39:02 GMT</sub>
+<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Tue, 10 Mar 2026 09:39:53 GMT</sub>
 </div>
