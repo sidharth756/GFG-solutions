@@ -65,5 +65,5 @@ You are given two integers n and k where n represents the total number of people
 ---
 
 <div align="center">
-<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Mon, 16 Mar 2026 14:53:16 GMT</sub>
+<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Mon, 16 Mar 2026 14:53:54 GMT</sub>
 </div>
