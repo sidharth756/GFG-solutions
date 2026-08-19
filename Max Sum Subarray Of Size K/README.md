@@ -14,7 +14,7 @@
 |-----------|-------|
 | Difficulty    | Easy  |
 | Accuracy      | 49.6%    |
-| Submissions   | 315K+ |
+| Submissions   | 326K+ |
 | Points        | 2      |
 | Language      | Java    |
 | Link          | [View on GFG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) |
@@ -75,5 +75,5 @@ Given an array of integers arr[] and a number k. Return the maximum sum of a sub
 ---
 
 <div align="center">
-<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Sat, 25 Jul 2026 04:01:45 GMT</sub>
+<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Wed, 19 Aug 2026 15:01:28 GMT</sub>
 </div>
