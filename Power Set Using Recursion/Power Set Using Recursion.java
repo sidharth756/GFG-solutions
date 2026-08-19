@@ -5,10 +5,10 @@ class Solution {
             return;
         }
 
-        subsequence(s,index +1,current,arr);
         current.append(s.charAt(index));
-        subsequence(s,index + 1,current,arr);
+        subsequence(s,index +1,current,arr);
         current.deleteCharAt(current.length()-1);
+        subsequence(s,index + 1,current,arr);
     }
     public ArrayList<String> powerSet(String s) {
         StringBuilder current = new StringBuilder();
