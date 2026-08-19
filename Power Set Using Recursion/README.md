@@ -65,5 +65,5 @@ You are given a string. You need to return the power-set (in any order) of the s
 ---
 
 <div align="center">
-<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Wed, 19 Aug 2026 15:47:17 GMT</sub>
+<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Wed, 19 Aug 2026 15:49:31 GMT</sub>
 </div>
